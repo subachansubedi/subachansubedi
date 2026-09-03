@@ -1,12 +1,11 @@
-# 💫 About Me
+# About Me
 
-👋 Computer Science student focused on **Data Analytics, Data Science, and Actuarial Science**.  
-🎓 B.S. Computer Science, Minor in Actuarial Science — University of South Florida  
+👋 Computer Science student focused on **Data Analytics and Actuarial Science**.  
+🎓 B.S. Computer Science, Minor in Actuarial Science — University of South Florida   
 📊 Focused on **data analytics, statistical modeling, insurance risk, and quantitative analysis**  
 🧮 Combining **computer science, mathematics, statistics, and finance** to solve data-driven problems  
 🤖 Exploring **machine learning, predictive modeling, and statistical analysis**  
 🛡️ Interested in applying analytics to **insurance, risk management, and financial decision-making**  
-🚀 Continuously learning and building projects at the intersection of **data, technology, and actuarial science**
 
 ## 💻 Tech Stack
 
