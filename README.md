@@ -2,7 +2,7 @@
 
 # Subachan Subedi 👋
 
-**Data Analytics • Financial Analysis • Actuarial Risk Analysis**  
+**Data Analysis • Financial Analysis • Actuarial Risk Analysis**  
 Computer Science @ USF | Actuarial Science Minor
 
 **Seeking Data Analyst / Financial Analyst / Actuarial Analyst Internships**
