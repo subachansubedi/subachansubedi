@@ -13,7 +13,7 @@ I use SQL, Python, Power BI, and Excel to turn data into insights on business pe
 
 ## Selected projects
 
-Six case studies demonstrating data analysis, financial decision support, and actuarial methods—from profitability and business reporting to claim costs and illustrative premium modeling. Open a preview for the dashboard or report; follow the links for the implementation.
+Seven case studies demonstrating data analysis, financial decision support, and actuarial methods—from profitability and lending portfolios to claim costs and illustrative premium modeling. Open a preview for the dashboard or report; follow the links for the implementation.
 
 <table>
 <tr>
@@ -73,13 +73,36 @@ Six case studies demonstrating data analysis, financial decision support, and ac
   <p><a href="https://github.com/subachansubedi/customer-churn-retention-analytics"><strong>Case study ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/subachansubedi/customer-churn-retention-analytics/blob/main/Dashboard/CHURN_ANALYSIS_projectdashboard.pdf">Dashboard</a> &nbsp; · &nbsp; <a href="https://github.com/subachansubedi/customer-churn-retention-analytics/blob/main/Python/Churn_Prediction_Random_Forest.ipynb">Notebook</a></p>
 </td>
 <td width="50%" valign="top">
-  <p>📣 &nbsp; <sub>06 · MARKETING ANALYTICS</sub></p>
+  <p>🏦 &nbsp; <sub>06 · LENDING &amp; FINANCIAL ANALYTICS</sub></p>
+  <h3><a href="https://github.com/subachansubedi/bank-loan-portfolio-analysis">Bank Loan Portfolio Analysis</a></h3>
+  <a href="https://github.com/subachansubedi/bank-loan-portfolio-analysis/blob/main/Excel/Bank_Loan_Analysis_Project.xlsx"><img src="assets/project-06-bank-loan.svg" width="100%" alt="Bank Loan Portfolio Analysis — Excel dashboard project"></a>
+  <p><strong>38,576 loans · $435.76M funded</strong></p>
+  <p>Excel portfolio analysis of lending activity, repayment status, borrower profiles, monthly trends, and funding and payment KPIs across two interactive dashboards.</p>
+  <p><img src="https://img.shields.io/badge/Excel-E6F3EC?style=flat&amp;logo=microsoftexcel&amp;logoColor=217346" alt="Excel"> &nbsp; <img src="https://img.shields.io/badge/Financial%20Analysis-EAF0FB?style=flat" alt="Financial Analysis"> &nbsp; <img src="https://img.shields.io/badge/Dashboard-FFF2C6?style=flat" alt="Dashboard"></p>
+  <p><a href="https://github.com/subachansubedi/bank-loan-portfolio-analysis"><strong>Case study ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/subachansubedi/bank-loan-portfolio-analysis/blob/main/Excel/Bank_Loan_Analysis_Project.xlsx">Excel dashboard</a> &nbsp; · &nbsp; <a href="https://github.com/subachansubedi/bank-loan-portfolio-analysis/blob/main/Report/Bank_Loan_Project_Report.pdf">Report</a></p>
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <p>📣 &nbsp; <sub>07 · MARKETING ANALYTICS</sub></p>
   <h3><a href="https://github.com/subachansubedi/Digital-Advertising-Performance-Analytics">Digital Advertising Performance</a></h3>
-  <a href="https://github.com/subachansubedi/Digital-Advertising-Performance-Analytics/blob/main/Dashboard/dashboard.pdf"><img src="assets/project-06-digital-advertising.svg" width="100%" alt="Digital Advertising Performance — full-resolution dashboard preview"></a>
+  <a href="https://github.com/subachansubedi/Digital-Advertising-Performance-Analytics/blob/main/Dashboard/dashboard.pdf"><img src="assets/project-07-digital-advertising.svg" width="100%" alt="Digital Advertising Performance — full-resolution dashboard preview"></a>
   <p><strong>2 platforms · 15 analytical questions</strong></p>
   <p>Campaign performance and budget analysis across Facebook and Instagram, with reporting on conversion funnels, audiences, creative formats, timing, and geography.</p>
   <p><img src="https://img.shields.io/badge/Power%20BI-FFF2C6?style=flat" alt="Power BI"> &nbsp; <img src="https://img.shields.io/badge/Python-EAF0FB?style=flat&amp;logo=python&amp;logoColor=3776AB" alt="Python"></p>
   <p><a href="https://github.com/subachansubedi/Digital-Advertising-Performance-Analytics"><strong>Case study ↗</strong></a> &nbsp; · &nbsp; <a href="https://github.com/subachansubedi/Digital-Advertising-Performance-Analytics/blob/main/Dashboard/dashboard.pdf">Dashboard</a> &nbsp; · &nbsp; <a href="https://github.com/subachansubedi/Digital-Advertising-Performance-Analytics/blob/main/python/digital_ad_python_analysis.py">Python analysis</a></p>
+</td>
+<td width="50%" valign="top">
+  <p>🧭 &nbsp; <sub>CONTINUE EXPLORING</sub></p>
+  <h3><a href="https://github.com/subachansubedi?tab=repositories">Other Projects</a></h3>
+  <a href="https://github.com/subachansubedi?tab=repositories"><img src="assets/project-others.svg" width="100%" alt="Explore more data, financial, and risk analytics projects"></a>
+  <p><strong>More analytical work</strong></p>
+  <p>Additional analytical questions, implementations, dashboards, and project documentation.</p>
+  <p><img src="https://img.shields.io/badge/Explore-Repositories-EAF0FB?style=flat&amp;logo=github&amp;logoColor=181717" alt="Explore repositories"></p>
+  <p><a href="https://github.com/subachansubedi?tab=repositories"><strong>Browse projects →</strong></a></p>
 </td>
 </tr>
 </table>
@@ -98,25 +121,10 @@ Six case studies demonstrating data analysis, financial decision support, and ac
 | **Insurance** | **33.71%** of active modeled annual premium is concentrated in three states; **7,630 blank Region values** require review. | Seven CSV sources, reusable measures, 20 PostgreSQL questions, 15 Python analyses, and documented data-quality findings. |
 | **Retail & warranty** | **2.88%** portfolio claim rate across 30,000 claims and 1.04M sales transactions. | CTEs, window functions, data validation, indexed schema, Python claim-frequency analysis, relative-risk scoring, and 10–30% claim-growth scenarios. |
 | **Churn** | Month-to-month customers account for **88.3% of recorded churn**. | SQL Server/PostgreSQL preparation, 77,016 service rows, DAX measures, and a Random Forest notebook with training, evaluation, feature importance, and scoring code. |
+| **Bank loan** | **38,576 applications**, **$435.76M funded**, and **13.82%** classified as Charged Off; Current and Fully Paid loans make up the portfolio’s 86.18% “Good Loan” reporting category. | Two Excel dashboards using PivotTables, PivotCharts, slicers, `GETPIVOTDATA`, linked formulas, a map, a treemap, and a documented project report. |
 | **Digital advertising** | Compares funnel and audience patterns across Facebook and Instagram. | Four source tables, two dashboard views, 15 Python questions, exported charts, and business reporting. |
 
 </details>
-
-## Others
-
-<table>
-<tr>
-<td width="36%" valign="middle">
-  <a href="https://github.com/subachansubedi?tab=repositories"><img src="assets/analytics-banner.svg" width="100%" alt="Data analytics — explore, analyze, explain"></a>
-</td>
-<td valign="middle">
-  <p>🧭 &nbsp; <sub>CONTINUE EXPLORING</sub></p>
-  <h3>More analytics projects</h3>
-  <p>More analytical questions, implementations, and project documentation.</p>
-  <p><a href="https://github.com/subachansubedi?tab=repositories"><strong>Browse projects →</strong></a></p>
-</td>
-</tr>
-</table>
 
 ## About
 
@@ -124,13 +132,23 @@ I'm a Computer Science student at the University of South Florida with an Actuar
 
 Across my projects, I work from data preparation and validation through analysis, modeling, and reporting. I focus on reconciling results, making assumptions explicit, and explaining what the numbers mean for a decision.
 
+| Focus | What my work demonstrates |
+| :--- | :--- |
+| 📊 **Data analytics** | SQL and Python analysis, data-quality checks, segmentation, KPI reconciliation, and Power BI dashboards. |
+| 💼 **Financial analysis** | Revenue and margin analysis, procurement and inventory costs, Excel financial modeling, present value, and scenario analysis. |
+| 🛡️ **Actuarial analysis** | Exposure-based claim frequency, severity and pure premium, risk segmentation, loss concentration, and illustrative deductible and premium scenarios. |
+
 🎓 **University of South Florida** · B.S. Computer Science, Actuarial Science Minor  
 Aug 2024 – May 2028 · **GPA: 3.93/4.0** · Dean's List, 4 semesters · USF Presidential Award
 
-🎓 **Global College International · Kathmandu, Nepal**  
+<details>
+<summary><strong>Earlier education &amp; academic distinction</strong></summary>
+
+<br>
+
+**Global College · Kathmandu, Nepal**  
 Cambridge International GCE AS & A Levels · Jul 2021 – Jun 2023  
-**GPA: 3.8/4.0** 
-Subjects: Accounting, Economics, Mathematics, Business 
+GPA: 3.8/4.0 
 
 </details>
 
