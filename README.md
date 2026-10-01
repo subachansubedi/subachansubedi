@@ -141,12 +141,7 @@ Across my projects, I work from data preparation and validation through analysis
 🎓 **University of South Florida** · B.S. Computer Science, Actuarial Science Minor  
 Aug 2024 – May 2028 · **GPA: 3.93/4.0** · Dean's List, 4 semesters · USF Presidential Award
 
-<details>
-<summary><strong>Earlier education &amp; academic distinction</strong></summary>
-
-<br>
-
-**Global College · Kathmandu, Nepal**  
+🎓 **Global College · Kathmandu, Nepal**  
 Cambridge International GCE AS & A Levels · Jul 2021 – Jun 2023  
 GPA: 3.8/4.0 
 
